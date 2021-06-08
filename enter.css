@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,400i,500,500i,600,600i,700,800,900&display=swap');
+body{
+    background-color: #474747;
+    
+    font-family: 'Montserrat',sans-serif;
+}
+
+.main{
+    background-color: white;
+    color: black;
+    width: 34%;
+    height: 520px;
+    margin-top: 7.5%;
+    margin-bottom: 7.5%;;
+    margin-left: 33%;
+   font-family: 'Montserrat',sans-serif;
+   
+}
+.edit{
+    font-weight: normal;
+    font-size: 18px;
+    display: block;
+    width: 90%;
+    height: 50px;
+    margin: 8px;
+    margin-left: 20px;
+    border-radius: 10px;
+     font-family: 'Montserrat',sans-serif;
+    
+}
+.edit1{
+    
+    font-weight: normal;
+    font-size: 18px;
+    display: block;
+    width: 90%;
+    height: 100px;
+    margin: 8px;
+    margin-left: 20px;
+    border-radius: 10px;
+     font-family: 'Montserrat',sans-serif;
+   
+}
+.size{
+    font-size: 30px;
+}
+.button{
+    margin-top: 13px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 20px;
+   border-radius: 25px;
+    padding: 17px 60px;
+    font-family: 'Montserrat',sans-serif;
+    border:none
+}
+
+#buttonleft{
+background-color: rgb(174, 192, 174);
+border: none;
+}
+#buttonleft:hover{
+    background-color: rgb(144, 160, 144);
+}
+#buttonright{
+    background-color:rgb(173, 173, 148);
+}
+#buttonright:hover{
+    background-color: blueviolet;
+}
+
