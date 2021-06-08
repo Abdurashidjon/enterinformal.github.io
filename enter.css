@@ -69,4 +69,16 @@ border: none;
 #buttonright:hover{
     background-color: blueviolet;
 }
+.edit select{
+     font-weight: normal;
+    font-size: 18px;
+    display: block;
+    width: 91.5%;
+    height: 50px;
+    margin: 8px;
+    margin-left: 20px;
+    border-radius: 10px;
+     font-family: 'Montserrat',sans-serif;
+}
+
 
